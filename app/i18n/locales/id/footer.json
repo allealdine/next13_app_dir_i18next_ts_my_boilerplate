@@ -1,0 +1,5 @@
+{
+  "description": "Ini adalah komponen non-halaman yang memerlukan ruang nama sendiri",
+  "helpLocize": "Dengan menggunakan <1>locize</1>, Anda secara langsung mendukung masa depan <3>i18next</3>.",
+  "languageSwitcher": "Beralih dari <1>{{lng}}</1> ke: "
+}

@@ -1,0 +1,11 @@
+{
+  "h1": "Contoh sederhana",
+  "title": "Halaman Utama",
+  "to-client-page": "Ke halaman klien",
+  "to-second-page": "Ke halaman kedua",
+  "welcome": "Selamat datang di Next.js 13 <1>dengan fitur direktori aplikasi baru</1> dan i18next",
+  "blog": {
+    "text": "Lihat <1>posting blog yang sesuai</1> yang menggambarkan contoh ini.",
+    "link": "https://locize.com/blog/next-13-app-dir-i18n/"
+  }
+}
